@@ -69,7 +69,7 @@ public class Main{
           if(rowsaffected==0) System.out.println("Nothing happened");
           else{
               System.out.println("Sucess update");
-          }
+          } 
 
       } 
 
